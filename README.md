@@ -2,7 +2,7 @@
 
 Web-based DogecoinDark node controller
 
-With this node controller you can control a running dogecoindarkd deamon.
+With this node controller you can control a running dogecoindarkd daemon.
 
 The node controller mainly uses PHP and a little bit of JavaScript.
 
